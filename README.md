@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arturszaro
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning scikit-learn.
+- 🌱 I’m currently learning Keras.
 - 📫 artur.szaro@gmail.com
 
 <!---
